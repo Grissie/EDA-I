@@ -1,0 +1,2 @@
+
+int opera(int, int);

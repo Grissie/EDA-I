@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1472059886 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio03\damenumero.c
+	<stdio.h>
+
+1472059886 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio03\imprime.c
+	<stdio.h>
+
+1472093512 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio03\main.c
+	<stdio.h>
+	"dameNumero.h"
+	"imprime.h"
+	"opera.h"
+
+1472059886 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio03\damenumero.h
+
+1472060406 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio03\imprime.h
+
+1472093512 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio03\opera.h
+
+1472093554 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio03\opera.c
+	<stdio.h>
+

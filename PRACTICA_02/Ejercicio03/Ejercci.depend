@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1472063485 source:d:\users\alumno\desktop\ejercci\damenumero.c
+	<stdio.h>
+
+1472063485 source:d:\users\alumno\desktop\ejercci\imprime.c
+	<stdio.h>
+
+1472063485 source:d:\users\alumno\desktop\ejercci\main.c
+	<stdio.h>
+	"dameNumero.h"
+	"imprime.h"
+	"opera.h"
+
+1472063485 d:\users\alumno\desktop\ejercci\damenumero.h
+
+1472063485 d:\users\alumno\desktop\ejercci\imprime.h
+
+1472063485 d:\users\alumno\desktop\ejercci\opera.h
+
+1472063485 source:d:\users\alumno\desktop\ejercci\opera.c
+	<stdio.h>
+
+1472063486 source:h:\practica 02\ejercicio03\damenumero.c
+	<stdio.h>
+
+1472063486 source:h:\practica 02\ejercicio03\imprime.c
+	<stdio.h>
+
+1472063486 source:h:\practica 02\ejercicio03\main.c
+	<stdio.h>
+	"dameNumero.h"
+	"imprime.h"
+	"opera.h"
+
+1472063486 h:\practica 02\ejercicio03\damenumero.h
+
+1472063486 h:\practica 02\ejercicio03\imprime.h
+
+1472063486 h:\practica 02\ejercicio03\opera.h
+
+1472063486 source:h:\practica 02\ejercicio03\opera.c
+	<stdio.h>
+
+1472063486 source:f:\practica 02\ejercicio03\damenumero.c
+	<stdio.h>
+
+1472063486 source:f:\practica 02\ejercicio03\imprime.c
+	<stdio.h>
+
+1472097112 source:f:\practica 02\ejercicio03\main.c
+	<stdio.h>
+	"dameNumero.h"
+	"imprime.h"
+	"opera.h"
+
+1472063486 f:\practica 02\ejercicio03\damenumero.h
+
+1472064006 f:\practica 02\ejercicio03\imprime.h
+
+1472097112 f:\practica 02\ejercicio03\opera.h
+
+1472097154 source:f:\practica 02\ejercicio03\opera.c
+	<stdio.h>
+

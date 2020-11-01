@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1472097496 source:f:\practica 02\ejercicio04\damenumero.c
+	<stdio.h>
+
+1472097502 source:f:\practica 02\ejercicio04\imprime.c
+	<stdio.h>
+
+1472097360 source:f:\practica 02\ejercicio04\main.c
+	<stdio.h>
+	"dameNumero.h"
+	"imprime.h"
+	"opera.h"
+
+1472097726 f:\practica 02\ejercicio04\damenumero.h
+
+1472097726 f:\practica 02\ejercicio04\imprime.h
+
+1472097726 f:\practica 02\ejercicio04\opera.h
+
+1472097500 source:f:\practica 02\ejercicio04\opera.c
+	<stdio.h>
+
+1472093896 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio04\damenumero.c
+	<stdio.h>
+
+1472093902 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio04\imprime.c
+	<stdio.h>
+
+1472093760 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio04\main.c
+	<stdio.h>
+	"dameNumero.h"
+	"imprime.h"
+	"opera.h"
+
+1472094126 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio04\damenumero.h
+
+1472094126 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio04\imprime.h
+
+1472094126 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio04\opera.h
+
+1472093900 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p02\ejercicio04\opera.c
+	<stdio.h>
+
+1472097496 source:c:\users\dell\dropbox\---programas ejecutables---\lenguaje c\---estructura de datos i---\practica_02\ejercicio04\damenumero.c
+	<stdio.h>
+
+1472097502 source:c:\users\dell\dropbox\---programas ejecutables---\lenguaje c\---estructura de datos i---\practica_02\ejercicio04\imprime.c
+	<stdio.h>
+
+1472097360 source:c:\users\dell\dropbox\---programas ejecutables---\lenguaje c\---estructura de datos i---\practica_02\ejercicio04\main.c
+	<stdio.h>
+	"dameNumero.h"
+	"imprime.h"
+	"opera.h"
+
+1472097726 c:\users\dell\dropbox\---programas ejecutables---\lenguaje c\---estructura de datos i---\practica_02\ejercicio04\damenumero.h
+
+1472097726 c:\users\dell\dropbox\---programas ejecutables---\lenguaje c\---estructura de datos i---\practica_02\ejercicio04\imprime.h
+
+1472097726 c:\users\dell\dropbox\---programas ejecutables---\lenguaje c\---estructura de datos i---\practica_02\ejercicio04\opera.h
+
+1472097500 source:c:\users\dell\dropbox\---programas ejecutables---\lenguaje c\---estructura de datos i---\practica_02\ejercicio04\opera.c
+	<stdio.h>
+
