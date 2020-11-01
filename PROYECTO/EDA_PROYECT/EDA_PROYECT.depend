@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1479965710 source:c:\users\norma\desktop\eda_proyect\estrufun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"estruFun.h"
+
+1480015784 c:\users\norma\desktop\eda_proyect\estrufun.h
+
+1479965815 source:c:\users\norma\desktop\eda_proyect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"estruFun.h"
+
+1479965710 source:c:\users\dell\desktop\eda_proyecto\eda_proyect\estrufun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"estruFun.h"
+
+1480015784 c:\users\dell\desktop\eda_proyecto\eda_proyect\estrufun.h
+
+1480223252 source:c:\users\dell\desktop\eda_proyecto\eda_proyect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"estruFun.h"
+
+1479969310 source:c:\users\dell\dropbox\programas ejecutables\c\---estructura de datos i---\proyecto\eda_proyect\estrufun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"estruFun.h"
+
+1480019384 c:\users\dell\dropbox\programas ejecutables\c\---estructura de datos i---\proyecto\eda_proyect\estrufun.h
+
+1480226852 source:c:\users\dell\dropbox\programas ejecutables\c\---estructura de datos i---\proyecto\eda_proyect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"estruFun.h"
+

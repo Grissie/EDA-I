@@ -1,0 +1,60 @@
+#include <stdio.h>
+
+typedef struct {
+	char ocupante[20];
+	int ocupado;
+} Asiento;
+
+typedef struct {
+	char nombre[2];
+	char tipo[10];
+	int capacidad;
+	Asiento asientos[200];
+} Avion;
+
+char Archivo1[25]="Aviones.bin\0";
+
+void imprimirAvion(Avion *aux) {
+	printf("\n---AVION");
+	printf("\n Nombre: %s",aux->nombre);
+	printf("\n Tipo: %s",aux->tipo);
+	printf("\n Capacidad: %d", aux->capacidad);
+}
+
+void llenarBin() {
+	FILE *f1 = fopen(Archivo1,"wb");
+	Avion aux;
+	int i;
+	for (i=0; i<3; i++) {
+		printf("\n\tLlenar nodo: ");
+		getchar();
+		printf("\n Nombre: ");
+		scanf("%[^\n]s",aux.nombre);
+		getchar();
+		printf("\n Tipo: ");
+		scanf("%[^\n]s",aux.tipo);
+		getchar();
+		printf("\n Capacidad: ");
+		scanf("%d",&(aux.capacidad));
+		fwrite(&aux,sizeof(Avion),1,f1);
+	}	
+	fclose(f1);
+}
+
+void imprimirBin() {
+	FILE *f1 = fopen(Archivo1,"rb");
+	Avion aux;
+	int i;
+	for (i=0; i<3; i++) {
+		fread(&aux,sizeof(Avion),1,f1);
+		imprimirAvion(&aux);
+	}
+	fclose(f1);
+}
+
+int main() {
+	llenarBin();
+	imprimirBin();
+	printf("\n");
+	return 0;
+}

@@ -1,0 +1,53 @@
+#include <stdio.h>
+
+typedef struct {
+	char nombre[25];
+	double x,y;
+} Lugar;
+
+char Archivo1[25]="Lugares.bin\0";
+
+void imprimirLugar(Lugar *aux) {
+	printf("\n---LUGAR");
+	printf("\n Nombre: %s",aux->nombre);
+	printf("\n X: %f", aux->x);
+	printf("\n Y: %f", aux->y);
+}
+
+void llenarBin() {
+	FILE *f1 = fopen(Archivo1,"wb");
+	Lugar aux;
+	int i;
+	for (i=0; i<10; i++) {
+		printf("\n\tLlenar nodo: ");
+		getchar();
+		printf("\n Nombre: ");
+		scanf("%[^\n]s",aux.nombre);
+		getchar();
+		printf("\n x: ");
+		scanf("%lf",&(aux.x));//Si hay problemas con el compilador, cambiar lf por f
+		printf("\n y: ");
+		scanf("%lf",&(aux.y));//Si hay problemas con el compilador, cambiar lf por f
+		fwrite(&aux,sizeof(Lugar),1,f1);
+		//imprimirLugar(&aux);
+	}	
+	fclose(f1);
+}
+
+void imprimirBin() {
+	FILE *f1 = fopen(Archivo1,"rb");
+	Lugar aux;
+	int i;
+	for (i=0; i<10; i++) {
+		fread(&aux,sizeof(Lugar),1,f1);
+		imprimirLugar(&aux);
+	}
+	fclose(f1);
+}
+
+int main() {
+	llenarBin();
+	imprimirBin();
+	printf("\n");
+	return 0;
+}
