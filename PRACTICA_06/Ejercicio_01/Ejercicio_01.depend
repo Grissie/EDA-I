@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1474863781 source:c:\users\dell\desktop\ejercicio_01\agreganodo.c
+	<stdio.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474863781 c:\users\dell\desktop\ejercicio_01\estructura1.h
+
+1474863781 c:\users\dell\desktop\ejercicio_01\estructura2.h
+
+1474863781 c:\users\dell\desktop\ejercicio_01\crearcola.h
+
+1474863781 source:c:\users\dell\desktop\ejercicio_01\crearcola.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474863912 source:c:\users\dell\desktop\ejercicio_01\imprime.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474864006 source:c:\users\dell\desktop\ejercicio_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+	"nuevoNodo.h"
+	"agregaNodo.h"
+	"retiraNodo.h"
+	"imprime.h"
+
+1474863781 c:\users\dell\desktop\ejercicio_01\nuevonodo.h
+
+1474863781 c:\users\dell\desktop\ejercicio_01\agreganodo.h
+
+1474863781 c:\users\dell\desktop\ejercicio_01\retiranodo.h
+
+1474863781 c:\users\dell\desktop\ejercicio_01\imprime.h
+
+1474863937 source:c:\users\dell\desktop\ejercicio_01\nuevonodo.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474863944 source:c:\users\dell\desktop\ejercicio_01\retiranodo.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474863781 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\agreganodo.c
+	<stdio.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474863781 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\estructura1.h
+
+1474863781 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\estructura2.h
+
+1474863781 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\crearcola.h
+
+1474863781 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\crearcola.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474863912 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\imprime.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474864041 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+	"nuevoNodo.h"
+	"agregaNodo.h"
+	"retiraNodo.h"
+	"imprime.h"
+
+1474863781 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\nuevonodo.h
+
+1474863781 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\agreganodo.h
+
+1474863781 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\retiranodo.h
+
+1474863781 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\imprime.h
+
+1474863937 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\nuevonodo.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474863944 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p06\ejercicio_01\retiranodo.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474860181 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\agreganodo.c
+	<stdio.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474860181 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\estructura1.h
+
+1474860181 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\estructura2.h
+
+1474860181 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\crearcola.h
+
+1474860181 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\crearcola.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474860312 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\imprime.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474860441 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+	"nuevoNodo.h"
+	"agregaNodo.h"
+	"retiraNodo.h"
+	"imprime.h"
+
+1474860181 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\nuevonodo.h
+
+1474860181 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\agreganodo.h
+
+1474860181 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\retiranodo.h
+
+1474860181 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\imprime.h
+
+1474860337 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\nuevonodo.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
+1474860344 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p06\ejercicio_01\retiranodo.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura1.h"
+	"estructura2.h"
+	"crearCola.h"
+
