@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1475206149 source:c:\users\dell\desktop\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475199081 c:\users\dell\desktop\programa_01\nodo.h
+
+1475206149 c:\users\dell\desktop\programa_01\lista.h
+	"nodo.h"
+
+1475200453 source:c:\users\dell\desktop\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475199546 source:c:\users\dell\desktop\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475876241 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475199081 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\nodo.h
+
+1475877148 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\lista.h
+	"nodo.h"
+
+1475876736 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475875946 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475872641 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475195481 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\programa_01\nodo.h
+
+1475873548 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\programa_01\lista.h
+	"nodo.h"
+
+1475873136 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475872346 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475872641 source:c:\users\dell\desktop\aed10_gutierrezsilvestregriselda\practica_07\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475195481 c:\users\dell\desktop\aed10_gutierrezsilvestregriselda\practica_07\programa_01\nodo.h
+
+1475873548 c:\users\dell\desktop\aed10_gutierrezsilvestregriselda\practica_07\programa_01\lista.h
+	"nodo.h"
+
+1475873136 source:c:\users\dell\desktop\aed10_gutierrezsilvestregriselda\practica_07\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475872346 source:c:\users\dell\desktop\aed10_gutierrezsilvestregriselda\practica_07\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1480123019 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\tarea\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1480122645 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\tarea\nodo.h
+
+1480122625 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\tarea\lista.h
+	"nodo.h"
+
+1480123021 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\tarea\nodo.c
+	<stdlib.h>
+	<stdio.h>
+	"nodo.h"
+
+1480123028 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p07\tarea\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"nodo.h"
+
