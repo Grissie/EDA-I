@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1475206149 source:c:\users\dell\desktop\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475199081 c:\users\dell\desktop\programa_01\nodo.h
+
+1475206149 c:\users\dell\desktop\programa_01\lista.h
+	"nodo.h"
+
+1475200453 source:c:\users\dell\desktop\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475199546 source:c:\users\dell\desktop\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475676571 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475199081 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\nodo.h
+
+1475206149 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\lista.h
+	"nodo.h"
+
+1475678428 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475200513 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p07\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475695918 source:f:\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475199082 f:\programa_01\nodo.h
+
+1475693220 f:\programa_01\lista.h
+	"nodo.h"
+
+1475695876 source:f:\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475200514 source:f:\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475695918 source:h:\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475199082 h:\programa_01\nodo.h
+
+1475693220 h:\programa_01\lista.h
+	"nodo.h"
+
+1475695876 source:h:\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475200514 source:h:\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475695918 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p08\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475199082 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p08\programa_01\nodo.h
+
+1475693220 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p08\programa_01\lista.h
+	"nodo.h"
+
+1476114178 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p08\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475200514 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p08\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1475692318 source:c:\users\dell\downloads\17_griselda_gutierrez_silvestre_p08\programa_01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1475195482 c:\users\dell\downloads\17_griselda_gutierrez_silvestre_p08\programa_01\nodo.h
+
+1475689620 c:\users\dell\downloads\17_griselda_gutierrez_silvestre_p08\programa_01\lista.h
+	"nodo.h"
+
+1476110580 source:c:\users\dell\downloads\17_griselda_gutierrez_silvestre_p08\programa_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1475196914 source:c:\users\dell\downloads\17_griselda_gutierrez_silvestre_p08\programa_01\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
