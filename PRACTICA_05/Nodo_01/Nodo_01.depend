@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1473879720 source:d:\users\edai10alu17\desktop\nodo_01\lectura.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+
+1473879268 d:\users\edai10alu17\desktop\nodo_01\estructura.h
+
+1473880886 source:d:\users\edai10alu17\desktop\nodo_01\escritura.c
+	<stdio.h>
+	"estructura.h"
+
+1473880640 source:d:\users\edai10alu17\desktop\nodo_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+	"lectura.h"
+	"escritura.h"
+
+1473879913 d:\users\edai10alu17\desktop\nodo_01\lectura.h
+
+1473881423 d:\users\edai10alu17\desktop\nodo_01\escritura.h
+
+1473906748 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_01\escritura.c
+	<stdio.h>
+	"estructura.h"
+
+1473906770 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_01\estructura.h
+
+1474239629 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_01\lectura.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+
+1473906748 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+	"lectura.h"
+	"escritura.h"
+
+1473879914 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_01\lectura.h
+
+1473881424 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_01\escritura.h
+
+1473903148 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_01\escritura.c
+	<stdio.h>
+	"estructura.h"
+
+1473903170 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_01\estructura.h
+
+1474236029 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_01\lectura.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+
+1473903148 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+	"lectura.h"
+	"escritura.h"
+
+1473876314 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_01\lectura.h
+
+1473877824 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_01\escritura.h
+

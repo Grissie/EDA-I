@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1473881853 source:d:\users\edai10alu17\desktop\nodo_02\lectura.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+
+1473881853 d:\users\edai10alu17\desktop\nodo_02\estructura.h
+
+1473882501 source:d:\users\edai10alu17\desktop\nodo_02\escritura.c
+	<stdio.h>
+	"estructura.h"
+
+1474430978 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_02\escritura.c
+	<stdio.h>
+	"estructura.h"
+
+1474240652 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_02\estructura.h
+
+1474345883 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_02\lectura.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+
+1474430882 source:c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+	"Lectura.h"
+	"Escritura.h"
+
+1473881916 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_02\lectura.h
+
+1473882502 c:\users\dell\dropbox\semestre 2017-1\estructuras de datos y algoritmos i\practicas\17_griselda_gutierrez_silvestre_p05\nodo_02\escritura.h
+
+1474427378 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_02\escritura.c
+	<stdio.h>
+	"estructura.h"
+
+1474237052 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_02\estructura.h
+
+1474342283 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_02\lectura.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+
+1474427282 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+	"Lectura.h"
+	"Escritura.h"
+
+1473878316 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_02\lectura.h
+
+1473878902 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p05\nodo_02\escritura.h
+

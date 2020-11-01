@@ -1,0 +1,2 @@
+
+void escritura(TNodo *p);

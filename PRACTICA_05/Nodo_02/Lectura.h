@@ -1,0 +1,2 @@
+
+TNodo *lectura();
