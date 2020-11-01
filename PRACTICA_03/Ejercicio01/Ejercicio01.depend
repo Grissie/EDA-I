@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1472669129 source:d:\users\edai10alu17\desktop\ejercicio01\imprime.c
+	<stdio.h>
+
+1472668851 source:d:\users\edai10alu17\desktop\ejercicio01\leer.c
+	<stdio.h>
+
+1472669053 source:d:\users\edai10alu17\desktop\ejercicio01\main.c
+	<stdio.h>
+	"Leer.h"
+	"suma.h"
+	"imprime.h"
+
+1472668368 d:\users\edai10alu17\desktop\ejercicio01\leer.h
+
+1472669042 d:\users\edai10alu17\desktop\ejercicio01\suma.h
+
+1472669042 d:\users\edai10alu17\desktop\ejercicio01\imprime.h
+
+1472669042 source:d:\users\edai10alu17\desktop\ejercicio01\suma.c
+	<stdio.h>
+
+1472669130 source:f:\ejercicio01\imprime.c
+	<stdio.h>
+
+1472668852 source:f:\ejercicio01\leer.c
+	<stdio.h>
+
+1472669054 source:f:\ejercicio01\main.c
+	<stdio.h>
+	"Leer.h"
+	"suma.h"
+	"imprime.h"
+
+1472668370 f:\ejercicio01\leer.h
+
+1472669044 f:\ejercicio01\suma.h
+
+1472669044 f:\ejercicio01\imprime.h
+
+1472669044 source:f:\ejercicio01\suma.c
+	<stdio.h>
+
+1472665530 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p03\ejercicio01\imprime.c
+	<stdio.h>
+
+1472665252 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p03\ejercicio01\leer.c
+	<stdio.h>
+
+1472665454 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p03\ejercicio01\main.c
+	<stdio.h>
+	"Leer.h"
+	"suma.h"
+	"imprime.h"
+
+1472664770 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p03\ejercicio01\leer.h
+
+1472665444 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p03\ejercicio01\suma.h
+
+1472665444 c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p03\ejercicio01\imprime.h
+
+1472665444 source:c:\users\dell\desktop\17_practicas_eda\17_griselda_gutierrez_silvestre_p03\ejercicio01\suma.c
+	<stdio.h>
+
